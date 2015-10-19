@@ -1,10 +1,10 @@
 module.exports = [
   {
-    id: 'play',
-    signature: 'Best regards,',
-    name: 'Jane Whatsmyname',
-    contactMain: 'Call <a href="tel:004581100200"><span>(45) 81100200</span></a> or email us at', // Wrap phone numbers like this to prevent iOS mail from making them blue.
-    contactMail: 'info@tryplay.dk',
+    id: 'lars',
+    signature: 'Med venlig hilsen / best regards,',
+    name: 'Lars Normark Holmgaard',
+    contactMain: 'Call <a href="tel:81100200"><span>81100200</span></a> or email me at', // Wrap phone numbers like this to prevent iOS mail from making them blue.
+    contactMail: 'lnh@tryplay.dk',
     slogan: 'LED Pylon. LED Wall. Digital Signage.',
     logoUrl: 'https://informationscreen.com/manage/assets/images/play-logo.png',
     logoAlt: 'Play. logo',
