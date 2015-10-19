@@ -8,6 +8,9 @@ module.exports = [
     slogan: 'LED Pylon. LED Wall. Digital Signage.',
     logoUrl: 'https://informationscreen.com/manage/assets/images/play-logo.png',
     logoAlt: 'Play. logo',
-    website: 'http://tryplay.dk'
+    website: 'http://tryplay.dk',
+    byText: 'Play is proudly made by fadeit. Read more on',
+    byWebsite: 'http://fadeit.dk',
+    byWebsiteText: 'fadeit.dk'
   }
 ]
