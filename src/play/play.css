@@ -99,7 +99,7 @@ a{
 }
 
 .footer a{
-  color: #f5f5f5;
+  color: #9E9E9E;
 }
 
 .footer--simple{
@@ -146,7 +146,7 @@ a{
 
 .footer__main a > span{
   /* Revert apple blue-link style. */
-  color: #f5f5f5!important;
+  color: #9E9E9E!important;
   text-decoration:none!important;
 }
 
@@ -186,5 +186,5 @@ a{
 }
 
 .by a{
-  color: #F5F5F5;
+  color: #B7B7B7;
 }
