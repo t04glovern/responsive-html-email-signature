@@ -10,9 +10,9 @@ module.exports = [
     position: 'Interaction Designer',
     welcome: 'Hi there,',
     introParagraph: 'Thank your for your message.',
-    contactMain: 'Call <a href="tel:52783387"><span>52783387</span></a> or email me at', // Wrap phone numbers like this to prevent iOS mail from making them blue.
+    contactMain: 'Call <a href="tel:004552783387"><span>(+45) 52783387</span></a> or email me at', // Wrap phone numbers like this to prevent iOS mail from making them blue.
     contactMail: 'dm@fadeit.dk',
-    contactSecondary: 'Anelystparken 31D&nbsp;&nbsp;&#9679;&nbsp;&nbsp;DK-8381 Tilst&nbsp;&nbsp;&#9679;&nbsp;&nbsp;Aarhus',
+    contactSecondary: 'Industrivej 21, DK 8550 Ryomgård, Danmark',
     logoUrl: 'http://fadeit.dk/src/assets/img/brand/fadeit-logo.png',
     logoAlt: 'fadeit logo',
     website: 'http://fadeit.dk'
@@ -24,9 +24,9 @@ module.exports = [
     position: 'CEO',
     welcome: 'Hi there,',
     introParagraph: 'Thank your for your message.',
-    contactMain: 'Call <a href="tel:81100200"><span>81100200</span></a> or email me at',
+    contactMain: 'Call <a href="tel:004581100200"><span>(+45) 81100200</span></a> or email me at',
     contactMail: 'lnh@fadeit.dk',
-    contactSecondary: 'Anelystparken 31D&nbsp;&nbsp;&#9679;&nbsp;&nbsp;DK-8381 Tilst&nbsp;&nbsp;&#9679;&nbsp;&nbsp;Aarhus',
+    contactSecondary: 'Industrivej 21, DK 8550 Ryomgård, Danmark',
     logoUrl: 'http://fadeit.dk/src/assets/img/brand/fadeit-logo.png',
     logoAlt: 'fadeit logo',
     website: 'http://fadeit.dk'
@@ -38,9 +38,9 @@ module.exports = [
     position: 'Software Developer',
     welcome: 'Hi there,',
     introParagraph: 'Thank your for your message.',
-    contactMain: 'Call <a href="tel:0037253308767"><span>+37253308767</span></a> or email me at',
+    contactMain: 'Call <a href="tel:0037253308767"><span>(+372) 53308767</span></a> or email me at',
     contactMail: 'ss@fadeit.dk',
-    contactSecondary: 'Anelystparken 31D&nbsp;&nbsp;&#9679;&nbsp;&nbsp;DK-8381 Tilst&nbsp;&nbsp;&#9679;&nbsp;&nbsp;Aarhus',
+    contactSecondary: 'Industrivej 21, DK 8550 Ryomgård, Danmark',
     logoUrl: 'http://fadeit.dk/src/assets/img/brand/fadeit-logo.png',
     logoAlt: 'fadeit logo',
     website: 'http://fadeit.dk'
@@ -52,9 +52,9 @@ module.exports = [
     position: 'Software Engineer',
     welcome: 'Hi,',
     introParagraph: '',
-    contactMain: 'Call <a href="tel:81101101"><span>81101101</span></a> or email me at',
+    contactMain: 'Call <a href="tel:004581101101"><span>(+45) 81101101</span></a> or email me at',
     contactMail: 'ja@fadeit.dk',
-    contactSecondary: 'Anelystparken 31D&nbsp;&nbsp;&#9679;&nbsp;&nbsp;DK-8381 Tilst&nbsp;&nbsp;&#9679;&nbsp;&nbsp;Aarhus',
+    contactSecondary: 'Industrivej 21, DK 8550 Ryomgård, Danmark',
     logoUrl: 'http://fadeit.dk/src/assets/img/brand/fadeit-logo.png',
     logoAlt: 'fadeit logo',
     website: 'http://fadeit.dk'

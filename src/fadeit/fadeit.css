@@ -93,7 +93,7 @@ a{
 }
 
 .footer a{
-  color: #888;
+  color: #555;
 }
 
 .footer--simple{
@@ -132,7 +132,7 @@ a{
 
 .footer__main a > span{
   /* Revert apple blue-link style. */
-  color: #888!important;
+  color: #555!important;
   text-decoration:none!important;
 }
 

@@ -137,12 +137,11 @@ a{
   color: #9E9E9E;
   /* @todo gulp-inline-css doesn't parse align */
   align:left;
-  padding-top: 15px;
 }
 
-.footer__main__col1__td > span{
+.footer__main__col1__td > p{
   font-size:18px;
-  margin-bottom:5px;
+  margin-bottom:10px;
 }
 
 .footer__main a > span{
@@ -163,6 +162,7 @@ a{
   color: #f5f5f5;
   /* @todo gulp-inline-css doesn't parse align */
   align:right;
+  padding-top:15px;
 }
 
 .footer__main__col2__td__img{
