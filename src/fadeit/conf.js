@@ -13,9 +13,9 @@ module.exports = [
     contactMain: 'Call <a href="tel:004552783387"><span>(+45) 52783387</span></a> or email me at', // Wrap phone numbers like this to prevent iOS mail from making them blue.
     contactMail: 'dm@fadeit.dk',
     contactSecondary: '<a href="https://goo.gl/maps/MAc4WN94Ex22"><span>Industrivej 21, DK 8550 Ryomgård, Danmark</span></a>',
-    logoUrl: 'http://fadeit.dk/src/assets/img/brand/fadeit-logo.png',
+    logoUrl: 'https://fadeit.dk/src/assets/img/brand/fadeit-logo.png',
     logoAlt: 'fadeit logo',
-    website: 'http://fadeit.dk'
+    website: 'https://fadeit.dk'
   },
   {
     id: 'lars',
@@ -27,9 +27,9 @@ module.exports = [
     contactMain: 'Call <a href="tel:004581100200"><span>(+45) 81100200</span></a> or email me at',
     contactMail: 'lnh@fadeit.dk',
     contactSecondary: '<a href="https://goo.gl/maps/MAc4WN94Ex22"><span>Industrivej 21, DK 8550 Ryomgård, Danmark</span></a>',
-    logoUrl: 'http://fadeit.dk/src/assets/img/brand/fadeit-logo.png',
+    logoUrl: 'https://fadeit.dk/src/assets/img/brand/fadeit-logo.png',
     logoAlt: 'fadeit logo',
-    website: 'http://fadeit.dk'
+    website: 'https://fadeit.dk'
   },
   {
     id: 'sander',
@@ -41,9 +41,9 @@ module.exports = [
     contactMain: 'Call <a href="tel:0037253308767"><span>(+372) 53308767</span></a> or email me at',
     contactMail: 'ss@fadeit.dk',
     contactSecondary: '<a href="https://goo.gl/maps/MAc4WN94Ex22"><span>Industrivej 21, DK 8550 Ryomgård, Danmark</span></a>',
-    logoUrl: 'http://fadeit.dk/src/assets/img/brand/fadeit-logo.png',
+    logoUrl: 'https://fadeit.dk/src/assets/img/brand/fadeit-logo.png',
     logoAlt: 'fadeit logo',
-    website: 'http://fadeit.dk'
+    website: 'https://fadeit.dk'
   },
   {
     id: 'justas',
@@ -55,8 +55,8 @@ module.exports = [
     contactMain: 'Call <a href="tel:004581101101"><span>(+45) 81101101</span></a> or email me at',
     contactMail: 'ja@fadeit.dk',
     contactSecondary: '<a href="https://goo.gl/maps/MAc4WN94Ex22"><span>Industrivej 21, DK 8550 Ryomgård, Danmark</span></a>',
-    logoUrl: 'http://fadeit.dk/src/assets/img/brand/fadeit-logo.png',
+    logoUrl: 'https://fadeit.dk/src/assets/img/brand/fadeit-logo.png',
     logoAlt: 'fadeit logo',
-    website: 'http://fadeit.dk'
+    website: 'https://fadeit.dk'
   }
 ]
