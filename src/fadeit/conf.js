@@ -57,6 +57,20 @@ module.exports = [
     contactSecondary: '<a href="https://goo.gl/maps/MAc4WN94Ex22"><span>Industrivej 21, DK 8550 Ryomgård, Danmark</span></a>',
     logoUrl: 'https://fadeit.dk/src/assets/img/brand/fadeit-logo.png',
     logoAlt: 'fadeit logo',
+   website: 'https://fadeit.dk'
+  },
+  {
+    id: 'mie',
+    signature: 'Med venlig hilsen / best regards,',
+    name: 'Mie Bøgh Noes',
+    position: 'Bogholderi',
+    welcome: 'Hej,',
+    introParagraph: 'Thank your for your message.',
+    contactMain: 'Call <a href="tel:004581100200"><span>(+45) 81100200</span></a> or email me at',
+    contactMail: 'mbn@fadeit.dk',
+    contactSecondary: '<a href="https://goo.gl/maps/MAc4WN94Ex22"><span>Industrivej 21, DK 8550 Ryomgård, Danmark</span></a>',
+    logoUrl: 'https://fadeit.dk/src/assets/img/brand/fadeit-logo.png',
+    logoAlt: 'fadeit logo',
     website: 'https://fadeit.dk'
-  }
+  },
 ]
