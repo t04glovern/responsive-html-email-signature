@@ -4,7 +4,8 @@
     <tr>
       <!-- @todo gulp-inline-css doesn't parse align -->
       <td class="footer__main__signature" align="left">
-        <!-- @echo team --> | <!-- @echo title --><br />
+        <!-- @echo signature --><br />
+        <br />
         <!-- @echo name --><br />
       </td>
     </tr>
@@ -16,11 +17,20 @@
       <!-- @todo gulp-inline-css can't use width in percentages, doesn't parse align -->
       <table class="rbcc footer__main__col1" width="70%" align="left">
         <td class="footer__main__col1__td" align="left">
-          <strong>
+          <strong>Mobile:</strong>
             <!-- @echo contactMain -->
+            <br />
+          <strong>Email:</strong>
             <a href="mailto:<!-- @echo contactMail -->" target="_blank"><!-- @echo contactMail --></a>
-          </strong><br />
-          <!-- @echo contactSecondary -->
+            <br />
+          <strong>Student ID:</strong>
+            <!-- @echo studentid -->
+            <br />
+          <strong>Website:</strong>
+            <!-- @echo website -->
+            <br />
+          <strong>Blog:</strong>
+            <!-- @echo blog -->
         </td>
       </table>
 
@@ -29,7 +39,7 @@
         <!-- @todo gulp-inline-css doesn't parse align -->
         <td class="footer__main__col2__td" align="right">
           <a href="<!-- @echo website -->">
-            <img src="<!-- @echo logoUrl -->" alt="<!-- @echo logoAlt -->" class="footer__main__col2__td__img"/><br />
+            <img src="<!-- @echo logoUrl -->" alt="<!-- @echo logoAlt -->" class="footer__main__col2__td__img"/>
           </a>
         </td>
       </table>
